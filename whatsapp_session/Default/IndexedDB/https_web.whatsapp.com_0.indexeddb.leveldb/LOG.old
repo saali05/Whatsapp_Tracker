@@ -1,0 +1,14 @@
+2026/09/11-12:29:45.938 d9c Creating DB C:\whatsapp_tracker\whatsapp_session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2026/09/11-12:29:45.943 d9c Reusing MANIFEST C:\whatsapp_tracker\whatsapp_session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/09/11-12:30:11.065 2a94 Level-0 table #5: started
+2026/09/11-12:30:11.088 2a94 Level-0 table #5: 1057883 bytes OK
+2026/09/11-12:30:11.090 2a94 Delete type=0 #3
+2026/09/11-12:30:11.507 2a94 Level-0 table #7: started
+2026/09/11-12:30:11.540 2a94 Level-0 table #7: 971942 bytes OK
+2026/09/11-12:30:11.542 2a94 Delete type=0 #4
+2026/09/11-12:30:11.545 2a94 Compacting 1@1 + 1@2 files
+2026/09/11-12:30:11.614 2a94 Generated table #8@1: 21159 keys, 825729 bytes
+2026/09/11-12:30:11.615 2a94 Compacted 1@1 + 1@2 files => 825729 bytes
+2026/09/11-12:30:11.616 2a94 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/09/11-12:30:11.616 2a94 Delete type=2 #5
+2026/09/11-12:30:11.616 2a94 Delete type=2 #7

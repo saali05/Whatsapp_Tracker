@@ -1,0 +1,6 @@
+2026/09/11-12:30:59.724 2d04 Reusing MANIFEST C:\whatsapp_tracker\whatsapp_session\Default\Local Storage\leveldb/MANIFEST-000001
+2026/09/11-12:30:59.725 2d04 Recovering log #3
+2026/09/11-12:30:59.727 2d04 Reusing old log C:\whatsapp_tracker\whatsapp_session\Default\Local Storage\leveldb/000003.log 
+2026/09/11-12:52:00.417 1acc Level-0 table #5: started
+2026/09/11-12:52:00.429 1acc Level-0 table #5: 18475 bytes OK
+2026/09/11-12:52:00.432 1acc Delete type=0 #3
