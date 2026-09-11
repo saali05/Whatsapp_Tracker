@@ -1,0 +1,4 @@
+*.xlsx
+Account_Data*.xlsx
+whatsapp_session/
+__pycache__/
